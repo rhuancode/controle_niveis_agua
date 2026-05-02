@@ -20,7 +20,7 @@ Desenvolver um sistema simples que:
 
 ## 🛠 Tecnologias utilizadas
 
-- Python 3<img width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+- Python 3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" align="center" />
 - Biblioteca `colorama`
 
 ---
