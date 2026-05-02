@@ -40,11 +40,11 @@ O sistema trabalha com cinco níveis de água:
 
 | Nível | Situação               | Cor       |
 |------|----------------------|----------|
-| 1    | Muito baixo (crítico) | Vermelho 🔴|
-| 2    | Baixo                | Amarelo 🟡|
-| 3    | Médio                | Verde 🟢|
-| 4    | Alto                 | Ciano <span style="color: cyan;">●</span>|
-| 5    | Muito alto (alerta)  | Azul 🔵|
+| 1    | Muito baixo (crítico) | Vermelho |
+| 2    | Baixo                | Amarelo |
+| 3    | Médio                | Verde |
+| 4    | Alto                 | Ciano |
+| 5    | Muito alto (alerta)  | Azul |
 
 Cada nível retorna uma mensagem específica com sua respectiva cor no terminal.
 
