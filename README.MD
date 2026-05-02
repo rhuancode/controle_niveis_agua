@@ -1,6 +1,6 @@
 # 💧 Controle de Níveis de Água
 
-Este projeto foi desenvolvido com o objetivo de simular o monitoramento de um reservatório de água utilizando Python <img width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />.
+Este projeto foi desenvolvido com o objetivo de simular o monitoramento de um reservatório de água utilizando Python<img width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />.
 
 O sistema exibe no terminal mensagens de alerta com cores diferentes, conforme o nível de água identificado, facilitando a visualização da situação do reservatório.
 
@@ -20,7 +20,7 @@ Desenvolver um sistema simples que:
 
 ## 🛠 Tecnologias utilizadas
 
-- Python 3 <img width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+- Python 3<img width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 - Biblioteca `colorama`
 
 ---
